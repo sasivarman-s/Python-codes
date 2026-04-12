@@ -18,3 +18,7 @@ all my python codes will be updated here!
 5)maxnum.py prints the output after taking the input from user.
   it takes 3 input from user as n1,n2 and n3
   after the calculation it prints the largest value as output.
+
+6) vote.py is the file that prints that the user is eligible for voting or not
+   if the age given by user is 18>= it prints "Eligible" else "not eligible". 
+  
